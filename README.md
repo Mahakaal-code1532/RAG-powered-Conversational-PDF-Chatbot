@@ -21,7 +21,7 @@ embeddings with FAISS for faster re-use. - Preserves **page number** and
 Clone the repo and install requirements:
 
 ``` bash
-git clone https://github.com/your-username/rag-chatbot.git
+git clone https://github.com/Mahakaal-code1532/RAG-powered-Conversational-PDF-Chatbot.git
 cd rag-chatbot
 pip install -r requirements.txt
 ```
